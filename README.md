@@ -86,4 +86,4 @@
 ```
 
 ### 服务端api
-项目地址：https://github.com/tumobi/nideshop
+项目地址：https://github.com/beiyuanbing/nideshop
