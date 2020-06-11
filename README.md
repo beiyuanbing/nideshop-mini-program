@@ -8,7 +8,7 @@
 
 **注意：当前版本功能还未完善，请勿商用。**
 
-本项目需要配合NideShop商城服务端使用，GitHub: [https://github.com/tumobi/nideshop](https://github.com/tumobi/nideshop)
+本项目需要配合NideShop商城服务端使用，GitHub: [https://github.com/beiyuanbing/nideshop](https://github.com/beiyuanbing/nideshop)
 
 [云服务器ECS-云主机优惠-2折上云](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=3grpysgf)
 
